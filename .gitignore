@@ -1,0 +1,57 @@
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+*.code-workspace
+
+# --- Secrets & local config (never commit) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.*
+credentials.*
+
+# --- Logs & temp ---
+*.log
+*.tmp
+tmp/
+temp/
+
+# --- Archives & large binaries (share via LMS / drive instead) ---
+*.zip
+*.rar
+*.7z
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Data & models (keep large files out of git) ---
+data/raw/
+data/large/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.joblib
+*.parquet
+mlruns/
+wandb/
