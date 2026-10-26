@@ -21,15 +21,15 @@ By the end of this module you will be able to:
 
 | # | Session | Status |
 |---|---|---|
-| 01 | Basics of Python | ⏳ Coming soon |
-| 02 | Programming Language Constructs | ⏳ Coming soon |
-| 03 | Introduction to Functions | ⏳ Coming soon |
-| 04 | Functions, Modules, and Packages | ⏳ Coming soon |
-| 05 | File Handling and Exception Handling | ⏳ Coming soon |
-| 06 | Regular Expressions and Tokenization of Text | ⏳ Coming soon |
-| 07 | Web Development Using Flask | ⏳ Coming soon |
-| 08 | Web Scraping in Python | ⏳ Coming soon |
-| 09 | GUI Programming in Tkinter | ⏳ Coming soon |
+| 01 | [Basics of Python](./Session-01-basics-of-python/) | ✅ Ready |
+| 02 | [Programming Language Constructs](./Session-02-programming-language-constructs/) | ✅ Ready |
+| 03 | [Introduction to Functions](./Session-03-introduction-to-functions/) | ✅ Ready |
+| 04 | [Functions, Modules, and Packages](./Session-04-functions-modules-and-packages/) | ✅ Ready |
+| 05 | [File Handling and Exception Handling](./Session-05-file-and-exception-handling/) | ✅ Ready |
+| 06 | [Regular Expressions and Tokenization of Text](./Session-06-regex-and-tokenization/) | ✅ Ready |
+| 07 | [Web Development Using Flask](./Session-07-web-development-with-flask/) | ✅ Ready |
+| 08 | [Web Scraping in Python](./Session-08-web-scraping/) | ✅ Ready |
+| 09 | [GUI Programming in Tkinter](./Session-09-gui-programming-with-tkinter/) | ✅ Ready |
 | 10 | Database Integration with Python | ⏳ Coming soon |
 | 11 | Data Handling Using Pandas | ⏳ Coming soon |
 | 12 | Data Visualization in Python | ⏳ Coming soon |
