@@ -1,0 +1,47 @@
+# Application Based Programming in Python
+
+**Term 1 — Data Science Foundations** · Module 01 · ~36 contact hours
+
+> Original teaching notes by Aseef Ahmed. Session titles follow the programme syllabus; all explanations, code and exercises are written independently and are **not** official Aptech courseware.
+
+## 🎯 Learning outcomes
+
+By the end of this module you will be able to:
+
+- Write clean Python programs using variables, data types, operators and control flow
+- Build reusable code with functions, lambdas, recursion, modules and packages
+- Read and write files safely and handle errors with exceptions
+- Process text with regular expressions and tokenization
+- Build small web apps (Flask), desktop GUIs (Tkinter) and web scrapers
+- Connect Python to a relational database and run CRUD operations
+- Explore, clean and visualise data with Pandas and Matplotlib
+- Prepare data for machine learning and train first classification, clustering and regression models
+
+## 📚 Session index
+
+| # | Session | Status |
+|---|---|---|
+| 01 | Basics of Python | ⏳ Coming soon |
+| 02 | Programming Language Constructs | ⏳ Coming soon |
+| 03 | Introduction to Functions | ⏳ Coming soon |
+| 04 | Functions, Modules, and Packages | ⏳ Coming soon |
+| 05 | File Handling and Exception Handling | ⏳ Coming soon |
+| 06 | Regular Expressions and Tokenization of Text | ⏳ Coming soon |
+| 07 | Web Development Using Flask | ⏳ Coming soon |
+| 08 | Web Scraping in Python | ⏳ Coming soon |
+| 09 | GUI Programming in Tkinter | ⏳ Coming soon |
+| 10 | Database Integration with Python | ⏳ Coming soon |
+| 11 | Data Handling Using Pandas | ⏳ Coming soon |
+| 12 | Data Visualization in Python | ⏳ Coming soon |
+| 13 | Data Processing Techniques in Machine Learning | ⏳ Coming soon |
+| 14 | Introduction to Different Types of Machine Learning | ⏳ Coming soon |
+| 15 | Regression Techniques for Machine Learning | ⏳ Coming soon |
+
+## 🧭 How to study each session
+
+1. Read the session `README.md` top to bottom (explanation → diagram → worked examples).
+2. Run the files in `code/` yourself and change them — break things on purpose.
+3. Try the practice exercises **before** opening the hidden solutions.
+4. Take the 5-question quiz. Score below 4? Re-read the key concepts.
+
+[⬅ Back to programme home](../../README.md)

@@ -2,106 +2,125 @@
 
 # 🦁 Diploma in Artificial Intelligence
 
-*Aptech Learning · Aptech North Nazimabad, Karachi*
+*Session-wise notes, runnable code, diagrams and exercises — Python · SQL · MongoDB · Statistics · ML · Deep Learning · Computer Vision · NLP*
 
 <img src="https://img.shields.io/badge/Aptech%20Learning-North%20Nazimabad-F5B301?style=for-the-badge&labelColor=0B0B0F&logo=academia&logoColor=F5B301" alt="Aptech Learning: North Nazimabad"/>
 <a href="https://github.com/SirAseef"><img src="https://img.shields.io/badge/Instructor-Sir%20Aseef-F5B301?style=for-the-badge&labelColor=0B0B0F&logo=github&logoColor=F5B301" alt="Instructor: Sir Aseef"/></a>
-<a href="./LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-F5B301?style=for-the-badge&labelColor=0B0B0F&logo=creativecommons&logoColor=F5B301" alt="License: CC BY-NC 4.0"/></a>
-<img src="https://img.shields.io/badge/Status-Active-F5B301?style=for-the-badge&labelColor=0B0B0F&logo=python&logoColor=F5B301" alt="Status: Active"/>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/Content-CC%20BY--NC%204.0-F5B301?style=for-the-badge&labelColor=0B0B0F&logo=creativecommons&logoColor=F5B301" alt="Content licence: CC BY-NC 4.0"/></a>
+<a href="./LICENSE"><img src="https://img.shields.io/badge/Code-MIT-F5B301?style=for-the-badge&labelColor=0B0B0F&logo=python&logoColor=F5B301" alt="Code licence: MIT"/></a>
+
+</div>
 
 ---
 
-</div>
+## 📌 What is this?
 
-## 📌 Purpose
+A free, student-friendly companion for the **Diploma in AI (OV-7212)** programme. Every session has its own folder with:
 
-Course repository for the **Aptech Diploma in Artificial Intelligence** (1 year, 2 semesters). It holds lecture notes, lab notebooks, assignments and project briefs, published module by module as the class progresses.
+| 📖 Notes | 🧩 Diagram | 🐍 Code | 📝 Practice | ✅ Quiz |
+|---|---|---|---|---|
+| Plain-English explanation with analogies | Mermaid concept map | Runnable, tested `.py` files + notebook | Exercises with hidden solutions | 5 questions with answers |
 
-## 👨‍🏫 Instructor
+> ⚠️ **Original teaching material by Aseef Ahmed; not official Aptech courseware.** Session titles follow the programme syllabus so you can study alongside your classes. No official books, slides or images are reproduced here — use your official Learner's Guide for the full syllabus.
 
-**Aseef Ahmed** — Senior Manager Academics, Aptech North Nazimabad  
-📧 [aseefahmed@aptechnorth.edu.pk](mailto:aseefahmed@aptechnorth.edu.pk) · 🐙 [github.com/SirAseef](https://github.com/SirAseef)
+## 👥 Who is it for?
 
-## 🗺️ Course Roadmap
+- **Diploma students** who want a second explanation, more examples and extra practice.
+- **Absolute beginners** — no prior coding is assumed in Term 1, Module 01.
+- **Revisers** preparing for module exams, quizzes and eProjects.
 
-### Semester 1 — Certificate of Accomplishment: Data Science Foundations
+## 🧭 How to use this repository
 
-| # | Module | Status |
-|---|---|---|
-| 01 | Data Handling using T-SQL | ⏳ Upcoming |
-| 02 | Managing Large DataSets with MongoDB | ⏳ Upcoming |
-| 03 | Inferential Statistical Analysis | ⏳ Upcoming |
-| 04 | Application Based Programming in Python | ⏳ Upcoming |
-| 05 | Data Science with Python | ⏳ Upcoming |
-| 06 | eProject — Data Science Foundation | ⏳ Upcoming |
-
-### Semester 2 — Certificate of Accomplishment: Diploma in Artificial Intelligence
-
-| # | Module | Status |
-|---|---|---|
-| 01 | AI Applications of NLP | ⏳ Upcoming |
-| 02 | AI and ML with Python | ⏳ Upcoming |
-| 03 | Applied Machine Learning using Python | ⏳ Upcoming |
-| 04 | Deep Learning using Neural Networks | ⏳ Upcoming |
-| 05 | Fundamentals of Computer Vision | ⏳ Upcoming |
-| 06 | Capstone Project — Recommendation Engine & Customer Churn Prediction | ⏳ Upcoming |
-
-<sub>Module names from Aptech Pakistan's official programme page: <a href="https://aptech-education.com.pk/courses-aiml">https://aptech-education.com.pk/courses-aiml</a>. Your centre's official curriculum and schedule take precedence.</sub>
-
-**Tools & technologies:** Python · Jupyter · NumPy · Pandas · Matplotlib · scikit-learn · MongoDB · SQL · Keras · TensorFlow · OpenCV · spaCy · Hugging Face
-
-## 🗂️ Folder Structure
+1. Pick your **Term → Module → Session** from the map below.
+2. Read the session `README.md`, then run the code in `code/` (or open `notebook.ipynb`).
+3. Solve the practice exercises *before* opening the `<details>` solutions.
+4. Take the quiz. Got stuck? Open an [Issue](../../issues) with the session name.
 
 ```text
 Diploma-in-AI/
-├── lectures/       # Notes & slides, per module
-├── labs/           # Hands-on exercises & notebooks
-├── assignments/    # Briefs, deadlines, submission rules
-├── projects/       # eProject / capstone briefs & rubrics
-├── resources/      # Links, cheat-sheets, setup guides
-├── .gitignore
-├── CONTRIBUTING.md
-├── LICENSE         # CC BY-NC 4.0
-└── README.md
+├── Term-1/
+│   └── 01-Application-Based-Programming-in-Python/
+│       ├── README.md                 ← module outcomes + session index
+│       └── Session-01-basics-of-python/
+│           ├── README.md             ← the lesson
+│           ├── notebook.ipynb        ← same examples, interactive
+│           ├── code/                 ← examples.py, problem_solution.py, exercises_solutions.py
+│           └── images/               ← charts generated by code/make_chart.py
+└── Term-2/ …
 ```
 
-## 🚀 How to Use This Repository
+## 🗺️ Programme map
 
-1. **Star ⭐ and Watch 👁️** the repo to be notified when new material is published.
-2. **Clone** it once and pull before every class:
+### [Term 1 — Data Science Foundations](./Term-1/)
 
+| # | Module | Sessions | Status |
+|---|---|---|---|
+| 01 | [Application Based Programming in Python](./Term-1/01-Application-Based-Programming-in-Python/) | 15 | ✅ All sessions ready |
+| 02 | [Data Handling using T-SQL](./Term-1/02-Data-Handling-using-T-SQL/) | 6 | ⏳ Coming soon |
+| 03 | [Data Science with Python](./Term-1/03-Data-Science-with-Python/) | 15 | ⏳ Coming soon |
+| 04 | [Inferential Statistical Analysis](./Term-1/04-Inferential-Statistical-Analysis/) | 6 | ⏳ Coming soon |
+| 05 | [Managing Large Datasets using MongoDB](./Term-1/05-Managing-Large-Datasets-using-MongoDB/) | 12 | ⏳ Coming soon |
+
+### [Term 2 — Artificial Intelligence](./Term-2/)
+
+| # | Module | Sessions | Status |
+|---|---|---|---|
+| 01 | [AI Primer](./Term-2/01-AI-Primer/) | 7 | ⏳ Coming soon |
+| 02 | [AI and ML with Python](./Term-2/02-AI-and-ML-with-Python/) | 8 | ⏳ Coming soon |
+| 03 | [Applied Machine Learning Using Python](./Term-2/03-Applied-Machine-Learning-Using-Python/) | 12 | ⏳ Coming soon |
+| 04 | [Deep Learning using Neural Networks](./Term-2/04-Deep-Learning-using-Neural-Networks/) | 15 | ⏳ Coming soon |
+| 05 | [Fundamentals of Computer Vision](./Term-2/05-Fundamentals-of-Computer-Vision/) | 8 | ⏳ Coming soon |
+| 06 | [AI Applications of NLP](./Term-2/06-AI-Applications-of-NLP/) | 15 | ⏳ Coming soon |
+
+## 🛠️ Setup
+
+### 1. Python with Anaconda (recommended for beginners)
+1. Download **Anaconda Distribution** from <https://www.anaconda.com/download> and install with default options.
+2. Open **Anaconda Prompt** (Windows) or a terminal (macOS/Linux) and create an environment for this course:
+   ```bash
+   conda create -n diploma-ai python=3.12 -y
+   conda activate diploma-ai
+   pip install -r requirements.txt
+   ```
+3. Check it works: `python --version` should print 3.10 or newer.
+
+*Prefer plain Python?* Install from <https://www.python.org/downloads/> (tick **"Add Python to PATH"** on Windows), then `python -m venv .venv`, activate it, and `pip install -r requirements.txt`.
+
+### 2. VS Code
+1. Install **Visual Studio Code**: <https://code.visualstudio.com/>.
+2. Add the extensions **Python** and **Jupyter** (both by Microsoft).
+3. `Ctrl+Shift+P` → *Python: Select Interpreter* → choose `diploma-ai`.
+
+### 3. Jupyter Notebooks
 ```bash
-git clone https://github.com/SirAseef/Diploma-in-AI.git
-cd Diploma-in-AI
-git pull   # before each class
+conda activate diploma-ai
+jupyter lab        # or: jupyter notebook
 ```
+Open any `notebook.ipynb` and press **Shift+Enter** to run a cell. Notebooks also open directly in VS Code.
 
-3. Read the `README.md` inside each folder — it explains what goes there.
-4. Keep your own work **outside** this clone (or in your own fork) so `git pull` never conflicts.
+### 4. SQL Server (Term 1 · Module 02)
+1. Install **SQL Server 2022 Developer** (free): <https://www.microsoft.com/sql-server/sql-server-downloads>.
+2. Install **SQL Server Management Studio (SSMS)**: <https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms>.
+3. Connect to `localhost` with Windows Authentication. On macOS/Linux, run SQL Server in Docker and use **Azure Data Studio** or the VS Code *SQL Server (mssql)* extension.
 
-## 📤 Submitting Work
+### 5. MongoDB (Term 1 · Module 05)
+1. Install **MongoDB Community Server**: <https://www.mongodb.com/try/download/community>.
+2. Install **MongoDB Compass** (GUI) and **mongosh** (shell).
+3. Test: run `mongosh` and type `db.runCommand({ ping: 1 })`. For cloud practice, create a free **MongoDB Atlas** cluster.
+4. From Python: `pip install pymongo`.
 
-- Follow the submission method stated in **each assignment brief** (LMS upload, email, or a link to your own GitHub repository).
-- Name files `RollNo_FullName_AssignmentNo` unless the brief says otherwise.
-- Do **not** open pull requests with your solutions to this repository — it is read-only course material.
-- Late submissions follow your centre's academic policy.
+## 🤝 Contributing
 
-## ⚖️ Academic Integrity
+Found a typo, a broken link or failing code? Read [CONTRIBUTING.md](./CONTRIBUTING.md) and open an Issue or a small pull request. Please do **not** upload official courseware, slides or assignment answers.
 
-> Your work must be your own. Copying from classmates, past batches or the internet, sharing solutions, or submitting AI-generated work as your own without acknowledgement is plagiarism and is dealt with under Aptech's academic policies. When you use a source or an AI tool, **cite it**. Ask if you are unsure — that is always allowed.
+## 📄 Licence
 
-## 📜 License
+- **Notes, diagrams and exercises:** [CC BY-NC 4.0](./LICENSE) — share and adapt for non-commercial use with credit.
+- **Source code** (`*.py`, notebooks' code cells): [MIT](./LICENSE).
 
-Teaching material in this repository is licensed under **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](./LICENSE)**. You may share and adapt it for **non-commercial** purposes with attribution to *Aseef Ahmed (SirAseef)*. Aptech course names and trademarks belong to their respective owners.
+Original teaching material by **Aseef Ahmed**; **not official Aptech courseware**. "Aptech" and course names are used only to identify the programme these notes accompany.
 
-## 📬 Contact
+## 👨‍🏫 Instructor
 
-Questions about this course? Email **[aseefahmed@aptechnorth.edu.pk](mailto:aseefahmed@aptechnorth.edu.pk)** or ask in class.
-
-<div align="center">
-
-<a href="https://github.com/SirAseef"><img src="https://img.shields.io/badge/More%20from-SirAseef-F5B301?style=for-the-badge&labelColor=0B0B0F&logo=github&logoColor=F5B301" alt="More from: SirAseef"/></a>
-
-<sub>Lead with courage. Teach with heart. Build with data. — <b>Sir Aseef</b></sub>
-
-</div>
+**Aseef Ahmed** — Senior Manager Academics, Aptech North Nazimabad, Karachi
+📧 [aseefahmed@aptechnorth.edu.pk](mailto:aseefahmed@aptechnorth.edu.pk) · 🐙 [github.com/SirAseef](https://github.com/SirAseef)

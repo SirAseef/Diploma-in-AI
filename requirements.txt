@@ -1,0 +1,10 @@
+# Term 1 · Module 01 — Application Based Programming in Python
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.4
+flask>=3.0
+requests>=2.31
+beautifulsoup4>=4.12
+jupyterlab>=4.0
+# tkinter and sqlite3 ship with Python (on Linux: sudo apt install python3-tk)

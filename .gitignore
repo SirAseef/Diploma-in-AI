@@ -55,3 +55,15 @@ data/large/
 *.parquet
 mlruns/
 wandb/
+
+# --- Official courseware must never be committed ---
+*.pdf
+*.ppt
+*.pptx
+src/
+courseware/
+
+# --- Session runtime artefacts ---
+*.db
+*.sqlite3
+code/output/
