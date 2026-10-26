@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+  <h2>Feedback</h2>
+  {% if message %}<p><strong>{{ message }}</strong></p>{% endif %}
+  <form method="post">
+    <label>Name <input name="name"></label>
+    <button type="submit">Send</button>
+  </form>
+{% endblock %}
