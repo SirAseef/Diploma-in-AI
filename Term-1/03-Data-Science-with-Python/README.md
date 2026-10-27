@@ -25,8 +25,8 @@ By the end of this module you will be able to:
 | 06 | [Handling Different File Formats](./Session-06-file-formats/) | ✅ Ready |
 | 07 | [Cleaning of Imported Data](./Session-07-data-cleaning/) | ✅ Ready |
 | 08 | [Data Visualization Using Matplotlib](./Session-08-matplotlib-visualization/) | ✅ Ready |
-| 09 | Data Visualization Using Seaborn | ⏳ Coming soon |
-| 10 | Non-Linear Regression Analysis | ⏳ Coming soon |
+| 09 | [Data Visualization Using Seaborn](./Session-09-seaborn-visualization/) | ✅ Ready |
+| 10 | [Non-Linear Regression Analysis](./Session-10-non-linear-regression/) | ✅ Ready |
 | 11 | Classification I | ⏳ Coming soon |
 | 12 | Classification II | ⏳ Coming soon |
 | 13 | Evaluating Classifier Models | ⏳ Coming soon |
