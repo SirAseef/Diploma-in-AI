@@ -21,8 +21,8 @@ By the end of this module you will be able to:
 | 02 | [Introduction to Probability](./Session-02-introduction-to-probability/) | ✅ Ready |
 | 03 | [Correlation and Regression](./Session-03-correlation-and-regression/) | ✅ Ready |
 | 04 | [Inferential Statistics](./Session-04-inferential-statistics/) | ✅ Ready |
-| 05 | Exact Sampling Distributions | ⏳ Coming soon |
-| 06 | Analysis of Variance | ⏳ Coming soon |
+| 05 | [Exact Sampling Distributions](./Session-05-exact-sampling-distributions/) | ✅ Ready |
+| 06 | [Analysis of Variance](./Session-06-analysis-of-variance/) | ✅ Ready |
 
 ## 🧭 How to study each session
 
