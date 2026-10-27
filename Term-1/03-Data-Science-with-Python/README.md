@@ -17,9 +17,9 @@ By the end of this module you will be able to:
 
 | # | Session | Status |
 |---|---|---|
-| 01 | Basics of Python | ⏳ Coming soon |
-| 02 | NumPy Library | ⏳ Coming soon |
-| 03 | Operations with Pandas Series and DataFrames | ⏳ Coming soon |
+| 01 | [Basics of Python](./Session-01-python-for-data-science/) | ✅ Ready |
+| 02 | [NumPy Library](./Session-02-numpy-library/) | ✅ Ready |
+| 03 | [Operations with Pandas Series and DataFrames](./Session-03-pandas-series-and-dataframes/) | ✅ Ready |
 | 04 | Advanced Pandas Techniques and Operations | ⏳ Coming soon |
 | 05 | MongoDB Database Interaction | ⏳ Coming soon |
 | 06 | Handling Different File Formats | ⏳ Coming soon |

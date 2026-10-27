@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 01 | [Application Based Programming in Python](./01-Application-Based-Programming-in-Python/) | 15 | 15/15 ready |
 | 02 | [Data Handling using T-SQL](./02-Data-Handling-using-T-SQL/) | 6 | 6/6 ready |
-| 03 | [Data Science with Python](./03-Data-Science-with-Python/) | 15 | 0/15 · coming soon |
+| 03 | [Data Science with Python](./03-Data-Science-with-Python/) | 15 | 3/15 ready |
 | 04 | [Inferential Statistical Analysis](./04-Inferential-Statistical-Analysis/) | 6 | 0/6 · coming soon |
 | 05 | [Managing Large Datasets using MongoDB](./05-Managing-Large-Datasets-using-MongoDB/) | 12 | 0/12 · coming soon |
 
