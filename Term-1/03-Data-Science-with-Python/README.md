@@ -29,8 +29,8 @@ By the end of this module you will be able to:
 | 10 | [Non-Linear Regression Analysis](./Session-10-non-linear-regression/) | ✅ Ready |
 | 11 | [Classification I](./Session-11-classification-1/) | ✅ Ready |
 | 12 | [Classification II](./Session-12-classification-2/) | ✅ Ready |
-| 13 | Evaluating Classifier Models | ⏳ Coming soon |
-| 14 | Clustering | ⏳ Coming soon |
+| 13 | [Evaluating Classifier Models](./Session-13-evaluating-classifiers/) | ✅ Ready |
+| 14 | [Clustering](./Session-14-clustering/) | ✅ Ready |
 | 15 | Association | ⏳ Coming soon |
 
 ## 🧭 How to study each session
