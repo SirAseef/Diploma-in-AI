@@ -22,8 +22,8 @@ By the end of this module you will be able to:
 | 03 | [Introduction to Problem Solving](./Session-03-problem-solving/) | ✅ Ready |
 | 04 | [Search as a Universal Problem-Solving Agent](./Session-04-search-agents/) | ✅ Ready |
 | 05 | [Knowledge Representation](./Session-05-knowledge-representation/) | ✅ Ready |
-| 06 | Logical Reasoning in AI and Performance Computation | ⏳ Coming soon |
-| 07 | OpenAI Coding in Python | ⏳ Coming soon |
+| 06 | [Logical Reasoning in AI and Performance Computation](./Session-06-logical-reasoning/) | ✅ Ready |
+| 07 | [OpenAI Coding in Python](./Session-07-openai-coding/) | ✅ Ready |
 
 ## 🧭 How to study each session
 
