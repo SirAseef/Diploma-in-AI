@@ -23,8 +23,8 @@ By the end of this module you will be able to:
 | 04 | [Advanced Pandas Techniques and Operations](./Session-04-advanced-pandas/) | ✅ Ready |
 | 05 | [MongoDB Database Interaction](./Session-05-mongodb-interaction/) | ✅ Ready |
 | 06 | [Handling Different File Formats](./Session-06-file-formats/) | ✅ Ready |
-| 07 | Cleaning of Imported Data | ⏳ Coming soon |
-| 08 | Data Visualization Using Matplotlib | ⏳ Coming soon |
+| 07 | [Cleaning of Imported Data](./Session-07-data-cleaning/) | ✅ Ready |
+| 08 | [Data Visualization Using Matplotlib](./Session-08-matplotlib-visualization/) | ✅ Ready |
 | 09 | Data Visualization Using Seaborn | ⏳ Coming soon |
 | 10 | Non-Linear Regression Analysis | ⏳ Coming soon |
 | 11 | Classification I | ⏳ Coming soon |
