@@ -66,7 +66,7 @@ Diploma-in-AI/
 | # | Module | Sessions | Status |
 |---|---|---|---|
 | 01 | [AI Primer](./Term-2/01-AI-Primer/) | 7 | ✅ All sessions ready |
-| 02 | [AI and ML with Python](./Term-2/02-AI-and-ML-with-Python/) | 8 | 🟡 3 of 8 sessions ready |
+| 02 | [AI and ML with Python](./Term-2/02-AI-and-ML-with-Python/) | 8 | 🟡 5 of 8 sessions ready |
 | 03 | [Applied Machine Learning Using Python](./Term-2/03-Applied-Machine-Learning-Using-Python/) | 12 | ⏳ Coming soon |
 | 04 | [Deep Learning using Neural Networks](./Term-2/04-Deep-Learning-using-Neural-Networks/) | 15 | ⏳ Coming soon |
 | 05 | [Fundamentals of Computer Vision](./Term-2/05-Fundamentals-of-Computer-Vision/) | 8 | ⏳ Coming soon |
