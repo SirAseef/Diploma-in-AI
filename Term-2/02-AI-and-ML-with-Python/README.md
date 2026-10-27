@@ -17,9 +17,9 @@ By the end of this module you will be able to:
 
 | # | Session | Status |
 |---|---|---|
-| 01 | Introduction to Artificial Intelligence and Machine Learning with Python | ⏳ Coming soon |
-| 02 | Advanced Recommender Systems: Types and Implementations | ⏳ Coming soon |
-| 03 | Bayesian Networks and their Practical Application | ⏳ Coming soon |
+| 01 | [Introduction to Artificial Intelligence and Machine Learning with Python](./Session-01-intro-ai-ml-python/) | ✅ Ready |
+| 02 | [Advanced Recommender Systems: Types and Implementations](./Session-02-recommender-systems/) | ✅ Ready |
+| 03 | [Bayesian Networks and their Practical Application](./Session-03-bayesian-networks/) | ✅ Ready |
 | 04 | Anomaly Detection and Model Interpretability | ⏳ Coming soon |
 | 05 | Clustering Techniques for Customer Segmentation | ⏳ Coming soon |
 | 06 | Federated Learning: Privacy, Security, and Edge Computing | ⏳ Coming soon |
