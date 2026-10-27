@@ -21,8 +21,8 @@ By the end of this module you will be able to:
 | 02 | [Working with MongoDB Databases](./Session-02-working-with-databases/) | ✅ Ready |
 | 03 | [MongoDB Operators](./Session-03-mongodb-operators/) | ✅ Ready |
 | 04 | [Aggregation Pipeline](./Session-04-aggregation-pipeline/) | ✅ Ready |
-| 05 | Database Commands | ⏳ Coming soon |
-| 06 | MongoDB Shell Methods | ⏳ Coming soon |
+| 05 | [Database Commands](./Session-05-database-commands/) | ✅ Ready |
+| 06 | [MongoDB Shell Methods](./Session-06-shell-methods/) | ✅ Ready |
 | 07 | MongoDB Indexing | ⏳ Coming soon |
 | 08 | Replication and Sharding | ⏳ Coming soon |
 | 09 | Transaction Management | ⏳ Coming soon |
