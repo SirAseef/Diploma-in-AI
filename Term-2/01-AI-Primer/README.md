@@ -20,8 +20,8 @@ By the end of this module you will be able to:
 | 01 | [Machine Learning](./Session-01-machine-learning/) | ✅ Ready |
 | 02 | [Deep Learning](./Session-02-deep-learning/) | ✅ Ready |
 | 03 | [Introduction to Problem Solving](./Session-03-problem-solving/) | ✅ Ready |
-| 04 | Search as a Universal Problem-Solving Agent | ⏳ Coming soon |
-| 05 | Knowledge Representation | ⏳ Coming soon |
+| 04 | [Search as a Universal Problem-Solving Agent](./Session-04-search-agents/) | ✅ Ready |
+| 05 | [Knowledge Representation](./Session-05-knowledge-representation/) | ✅ Ready |
 | 06 | Logical Reasoning in AI and Performance Computation | ⏳ Coming soon |
 | 07 | OpenAI Coding in Python | ⏳ Coming soon |
 
