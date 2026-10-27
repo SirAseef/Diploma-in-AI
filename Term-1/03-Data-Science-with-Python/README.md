@@ -27,8 +27,8 @@ By the end of this module you will be able to:
 | 08 | [Data Visualization Using Matplotlib](./Session-08-matplotlib-visualization/) | ✅ Ready |
 | 09 | [Data Visualization Using Seaborn](./Session-09-seaborn-visualization/) | ✅ Ready |
 | 10 | [Non-Linear Regression Analysis](./Session-10-non-linear-regression/) | ✅ Ready |
-| 11 | Classification I | ⏳ Coming soon |
-| 12 | Classification II | ⏳ Coming soon |
+| 11 | [Classification I](./Session-11-classification-1/) | ✅ Ready |
+| 12 | [Classification II](./Session-12-classification-2/) | ✅ Ready |
 | 13 | Evaluating Classifier Models | ⏳ Coming soon |
 | 14 | Clustering | ⏳ Coming soon |
 | 15 | Association | ⏳ Coming soon |
