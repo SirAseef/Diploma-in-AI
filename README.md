@@ -56,7 +56,7 @@ Diploma-in-AI/
 | # | Module | Sessions | Status |
 |---|---|---|---|
 | 01 | [Application Based Programming in Python](./Term-1/01-Application-Based-Programming-in-Python/) | 15 | ✅ All sessions ready |
-| 02 | [Data Handling using T-SQL](./Term-1/02-Data-Handling-using-T-SQL/) | 6 | ⏳ Coming soon |
+| 02 | [Data Handling using T-SQL](./Term-1/02-Data-Handling-using-T-SQL/) | 6 | 🟡 3 of 6 sessions ready |
 | 03 | [Data Science with Python](./Term-1/03-Data-Science-with-Python/) | 15 | ⏳ Coming soon |
 | 04 | [Inferential Statistical Analysis](./Term-1/04-Inferential-Statistical-Analysis/) | 6 | ⏳ Coming soon |
 | 05 | [Managing Large Datasets using MongoDB](./Term-1/05-Managing-Large-Datasets-using-MongoDB/) | 12 | ⏳ Coming soon |

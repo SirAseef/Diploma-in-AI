@@ -18,9 +18,9 @@ By the end of this module you will be able to:
 
 | # | Session | Status |
 |---|---|---|
-| 01 | Introduction to Transact-SQL (T-SQL) | ⏳ Coming soon |
-| 02 | T-SQL Language Elements | ⏳ Coming soon |
-| 03 | Performing Conditional Formatting | ⏳ Coming soon |
+| 01 | [Introduction to Transact-SQL (T-SQL)](./Session-01-introduction-to-t-sql/) | ✅ Ready |
+| 02 | [T-SQL Language Elements](./Session-02-t-sql-language-elements/) | ✅ Ready |
+| 03 | [Performing Conditional Formatting](./Session-03-conditional-formatting/) | ✅ Ready |
 | 04 | Retrieve Data from Multiple Tables | ⏳ Coming soon |
 | 05 | Modify Data Using T-SQL Statements | ⏳ Coming soon |
 | 06 | Working with Built-in Functions | ⏳ Coming soon |
