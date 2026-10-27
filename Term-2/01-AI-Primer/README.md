@@ -17,9 +17,9 @@ By the end of this module you will be able to:
 
 | # | Session | Status |
 |---|---|---|
-| 01 | Machine Learning | ⏳ Coming soon |
-| 02 | Deep Learning | ⏳ Coming soon |
-| 03 | Introduction to Problem Solving | ⏳ Coming soon |
+| 01 | [Machine Learning](./Session-01-machine-learning/) | ✅ Ready |
+| 02 | [Deep Learning](./Session-02-deep-learning/) | ✅ Ready |
+| 03 | [Introduction to Problem Solving](./Session-03-problem-solving/) | ✅ Ready |
 | 04 | Search as a Universal Problem-Solving Agent | ⏳ Coming soon |
 | 05 | Knowledge Representation | ⏳ Coming soon |
 | 06 | Logical Reasoning in AI and Performance Computation | ⏳ Coming soon |
