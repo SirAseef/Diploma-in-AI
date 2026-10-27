@@ -15,7 +15,7 @@ A Python list can hold anything, so every element carries extra baggage and loop
 flowchart TD
     L[Python list<br/>mixed types · loops] -->|np.array| A[ndarray<br/>one dtype · contiguous]
     A --> V[Vectorised maths<br/>a * 2, a + b]
-    A --> M[Boolean masks<br/>a[a > 50]]
+    A --> M["Boolean masks<br/>a[a > 50]"]
     A --> X[Aggregations<br/>sum · mean · axis=0/1]
     A --> R[Reshape / stack]
     A --> P[pandas & scikit-learn<br/>use arrays underneath]
