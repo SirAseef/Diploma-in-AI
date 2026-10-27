@@ -23,8 +23,8 @@ By the end of this module you will be able to:
 | 04 | [Aggregation Pipeline](./Session-04-aggregation-pipeline/) | ✅ Ready |
 | 05 | [Database Commands](./Session-05-database-commands/) | ✅ Ready |
 | 06 | [MongoDB Shell Methods](./Session-06-shell-methods/) | ✅ Ready |
-| 07 | MongoDB Indexing | ⏳ Coming soon |
-| 08 | Replication and Sharding | ⏳ Coming soon |
+| 07 | [MongoDB Indexing](./Session-07-indexing/) | ✅ Ready |
+| 08 | [Replication and Sharding](./Session-08-replication-and-sharding/) | ✅ Ready |
 | 09 | Transaction Management | ⏳ Coming soon |
 | 10 | MongoDB Tools | ⏳ Coming soon |
 | 11 | MongoDB Cloud | ⏳ Coming soon |
