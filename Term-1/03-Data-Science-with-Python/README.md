@@ -20,9 +20,9 @@ By the end of this module you will be able to:
 | 01 | [Basics of Python](./Session-01-python-for-data-science/) | ✅ Ready |
 | 02 | [NumPy Library](./Session-02-numpy-library/) | ✅ Ready |
 | 03 | [Operations with Pandas Series and DataFrames](./Session-03-pandas-series-and-dataframes/) | ✅ Ready |
-| 04 | Advanced Pandas Techniques and Operations | ⏳ Coming soon |
-| 05 | MongoDB Database Interaction | ⏳ Coming soon |
-| 06 | Handling Different File Formats | ⏳ Coming soon |
+| 04 | [Advanced Pandas Techniques and Operations](./Session-04-advanced-pandas/) | ✅ Ready |
+| 05 | [MongoDB Database Interaction](./Session-05-mongodb-interaction/) | ✅ Ready |
+| 06 | [Handling Different File Formats](./Session-06-file-formats/) | ✅ Ready |
 | 07 | Cleaning of Imported Data | ⏳ Coming soon |
 | 08 | Data Visualization Using Matplotlib | ⏳ Coming soon |
 | 09 | Data Visualization Using Seaborn | ⏳ Coming soon |
