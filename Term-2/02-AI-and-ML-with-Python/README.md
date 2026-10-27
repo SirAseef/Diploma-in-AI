@@ -22,8 +22,8 @@ By the end of this module you will be able to:
 | 03 | [Bayesian Networks and their Practical Application](./Session-03-bayesian-networks/) | ✅ Ready |
 | 04 | [Anomaly Detection and Model Interpretability](./Session-04-anomaly-detection-interpretability/) | ✅ Ready |
 | 05 | [Clustering Techniques for Customer Segmentation](./Session-05-customer-segmentation/) | ✅ Ready |
-| 06 | Federated Learning: Privacy, Security, and Edge Computing | ⏳ Coming soon |
-| 07 | Quantum Computing and Machine Learning Integration | ⏳ Coming soon |
+| 06 | [Federated Learning: Privacy, Security, and Edge Computing](./Session-06-federated-learning/) | ✅ Ready |
+| 07 | [Quantum Computing and Machine Learning Integration](./Session-07-quantum-ml/) | ✅ Ready |
 | 08 | Meta-Learning and its Applications | ⏳ Coming soon |
 
 ## 🧭 How to study each session
