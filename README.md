@@ -59,7 +59,7 @@ Diploma-in-AI/
 | 02 | [Data Handling using T-SQL](./Term-1/02-Data-Handling-using-T-SQL/) | 6 | ✅ All sessions ready |
 | 03 | [Data Science with Python](./Term-1/03-Data-Science-with-Python/) | 15 | ✅ All sessions ready |
 | 04 | [Inferential Statistical Analysis](./Term-1/04-Inferential-Statistical-Analysis/) | 6 | ✅ All sessions ready |
-| 05 | [Managing Large Datasets using MongoDB](./Term-1/05-Managing-Large-Datasets-using-MongoDB/) | 12 | 🟡 2 of 12 sessions ready |
+| 05 | [Managing Large Datasets using MongoDB](./Term-1/05-Managing-Large-Datasets-using-MongoDB/) | 12 | 🟡 4 of 12 sessions ready |
 
 ### [Term 2 — Artificial Intelligence](./Term-2/)
 
