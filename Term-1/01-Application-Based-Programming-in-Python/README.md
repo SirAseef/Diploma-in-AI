@@ -30,12 +30,12 @@ By the end of this module you will be able to:
 | 07 | [Web Development Using Flask](./Session-07-web-development-with-flask/) | ✅ Ready |
 | 08 | [Web Scraping in Python](./Session-08-web-scraping/) | ✅ Ready |
 | 09 | [GUI Programming in Tkinter](./Session-09-gui-programming-with-tkinter/) | ✅ Ready |
-| 10 | Database Integration with Python | ⏳ Coming soon |
-| 11 | Data Handling Using Pandas | ⏳ Coming soon |
-| 12 | Data Visualization in Python | ⏳ Coming soon |
-| 13 | Data Processing Techniques in Machine Learning | ⏳ Coming soon |
-| 14 | Introduction to Different Types of Machine Learning | ⏳ Coming soon |
-| 15 | Regression Techniques for Machine Learning | ⏳ Coming soon |
+| 10 | [Database Integration with Python](./Session-10-database-integration/) | ✅ Ready |
+| 11 | [Data Handling Using Pandas](./Session-11-data-handling-with-pandas/) | ✅ Ready |
+| 12 | [Data Visualization in Python](./Session-12-data-visualization/) | ✅ Ready |
+| 13 | [Data Processing Techniques in Machine Learning](./Session-13-data-processing-for-ml/) | ✅ Ready |
+| 14 | [Introduction to Different Types of Machine Learning](./Session-14-types-of-machine-learning/) | ✅ Ready |
+| 15 | [Regression Techniques for Machine Learning](./Session-15-regression-techniques/) | ✅ Ready |
 
 ## 🧭 How to study each session
 
