@@ -27,8 +27,8 @@ By the end of this module you will be able to:
 | 08 | [Replication and Sharding](./Session-08-replication-and-sharding/) | ✅ Ready |
 | 09 | [Transaction Management](./Session-09-transactions/) | ✅ Ready |
 | 10 | [MongoDB Tools](./Session-10-mongodb-tools/) | ✅ Ready |
-| 11 | MongoDB Cloud | ⏳ Coming soon |
-| 12 | MongoDB Database Connectivity with Python | ⏳ Coming soon |
+| 11 | [MongoDB Cloud](./Session-11-mongodb-cloud/) | ✅ Ready |
+| 12 | [MongoDB Database Connectivity with Python](./Session-12-pymongo-connectivity/) | ✅ Ready |
 
 ## 🧭 How to study each session
 
