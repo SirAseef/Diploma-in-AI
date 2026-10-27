@@ -31,7 +31,7 @@ By the end of this module you will be able to:
 | 12 | [Classification II](./Session-12-classification-2/) | ✅ Ready |
 | 13 | [Evaluating Classifier Models](./Session-13-evaluating-classifiers/) | ✅ Ready |
 | 14 | [Clustering](./Session-14-clustering/) | ✅ Ready |
-| 15 | Association | ⏳ Coming soon |
+| 15 | [Association](./Session-15-association-rules/) | ✅ Ready |
 
 ## 🧭 How to study each session
 
